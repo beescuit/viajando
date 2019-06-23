@@ -1,0 +1,12 @@
+{
+  "name": "viajando",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord-rpc": "^3.0.1"
+  },
+  "devDependencies": {},
+  "author": "Bee",
+  "license": "ISC"
+}
